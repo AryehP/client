@@ -1,0 +1,24 @@
+.form{
+    /* display: flex;
+    justify-content: center; */
+    padding: 0.2rem;   
+}
+.new-user-form{
+
+    border-radius: 10px;
+    border-color: black;
+    padding: 0.3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.form-input{
+    padding: 0.2rem;
+}
+label{
+    text-align: left;
+}
+.form-btn{
+    background-color: #92A9BD;
+    color: black;
+}
